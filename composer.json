@@ -1,0 +1,12 @@
+{
+    "name": "vendor/operationbuilder",
+    "description": "build some linear operation",
+    "authors": [
+        {
+            "name": "Alexandre CLOTAIL",
+            "email": "alexandre.clotail@johnpaul.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
